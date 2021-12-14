@@ -1,0 +1,186 @@
+#banner {
+  position: relative;
+  padding-top: 80px;
+  text-align: center;
+}
+
+.shadow {
+  position: absolute;
+  left: 48px;
+  top: -100px;
+}
+
+.banner-background {
+  position: absolute;
+  left: 284px;
+  top: 182.06px;
+}
+
+.banner-mobi {
+  position: inherit;
+  z-index: 2;
+}
+
+.slogan {
+  font-size: 25px;
+  padding-top: 98px;
+}
+
+#sidebar {
+  padding: 32px 300px 0 300px;
+  display: flex;
+}
+
+.manter-img {
+  padding-right: 52px;
+}
+
+#navition {
+  padding: 108px 120px 135px 190px;
+  display: flex;
+  position: relative;
+}
+
+.navition-introduce {
+  width: 330px;
+  position: relative;
+  top: 152px;
+  height: 290px;
+}
+
+.introduce-question {
+  padding-bottom: 16px;
+  color: #d4f70e;
+}
+
+.introduce-slogan {
+  font-size: 33px;
+  line-height: 24px;
+}
+
+.introduce-heading {
+  color: #595959;
+  line-height: 32px;
+  padding-top: 45px;
+  font-size: 18px;
+}
+
+.navition-browse {
+  background-color: #171c1f;
+  width: 330px;
+  height: 296px;
+}
+
+.create {
+  margin-bottom: 40px;
+}
+.browse {
+  position: relative;
+  top: 180px;
+  margin-left: 100px;
+  margin-right: 40px;
+}
+
+.navition-icon {
+  margin: 32px 133px 24px;
+  text-align: center;
+}
+
+.navition-slogan {
+  text-align: center;
+  font-size: 24px;
+}
+
+.browse-heading {
+  color: #595959;
+  width: 266px;
+  text-align: center;
+  padding: 16px 32px 56px 32px;
+  line-height: 24px;
+}
+
+.navition-chil {
+  right: 120px;
+}
+
+.invitation {
+  padding-left: 190px;
+  display: flex;
+}
+
+.invitation-tab {
+  width: 400px;
+}
+
+.tab-slogan {
+  font-size: 43px;
+}
+
+.invitation-tab > .browse-heading {
+  text-align: left;
+  padding: 12px 0 4px 0;
+}
+
+.tab-list > li::marker {
+  color: #d4f70e;
+}
+
+.tab-list {
+  padding-left: 24px;
+}
+
+.tab-list-nav {
+  line-height: 48px;
+}
+
+.invitation-community {
+  position: relative;
+}
+
+.invitation-img {
+  padding-left: 220px;
+  position: absolute;
+  top: -10px;
+  left: 0;
+}
+
+.invitation-bgr {
+  position: absolute;
+  top: -160px;
+  left: -100px;
+}
+
+.plan {
+  padding-top: 131px;
+  text-align: center;
+}
+
+.plan-heading {
+  font-size: 48px;
+  padding-top: 28px;
+  padding-bottom: 38px;
+}
+
+.plan-button {
+  text-align: center;
+}
+
+.plan-button-chil {
+  width: 102px;
+  height: 40px;
+  background-color: #23282a;
+  border-radius: 33px;
+  border: none;
+}
+
+.button-annually {
+  background-color: #d4f70e;
+  position: relative;
+  margin-right: -12px;
+  color: #171c1f;
+}
+
+.button-monthly {
+  margin-left: -12px;
+  width: 142px;
+}

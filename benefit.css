@@ -1,0 +1,214 @@
+.benefit {
+  margin-top: 254px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#benefit-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.benefit-slogan {
+  font-size: 40px;
+  line-height: 48px;
+  padding-bottom: 61px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.benefit-tag {
+  width: 620px;
+  display: flex;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.03);
+  margin-bottom: 1px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.benefit-bg {
+  position: relative;
+  width: 91px;
+  height: 91px;
+  background-color: rgba(255, 255, 255, 0.03);
+  margin: 24px 0 0 24px;
+  border-radius: 100%;
+}
+
+.benefit-icon {
+  justify-content: center;
+  position: absolute;
+  top: 32px;
+  right: 32px;
+}
+
+.benefit-content {
+  padding: 0 111px 0 32px;
+}
+
+.benefit-contact {
+  font-size: 20px;
+  padding-top: 25px;
+}
+
+.bebefit-heading {
+  color: #595959;
+  width: 362px;
+  line-height: 24px;
+  padding: 24px 0 32px 0;
+}
+
+.gender-2 {
+  display: flex;
+  padding-bottom: 151px;
+}
+
+.gender-img2 {
+  position: relative;
+}
+
+.gender-iphone2 {
+  padding-top: 124px;
+}
+
+/* .gender-icon2 {
+  position: absolute;
+  left: 412px;
+  top: 446px;
+}
+
+.gender-bgr2 {
+  position: absolute;
+  left: 292px;
+  top: 332px;
+} */
+
+.gender-2 > .gender-tag {
+  padding-top: 203px;
+  padding-left: 88px;
+  width: 506px;
+}
+
+.breadcrumb-3 {
+  width: 657px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.breadcrumb-text {
+  font-size: 36px !important;
+}
+
+.breadcrumb-3 > .s-16-color {
+  color: #fff;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.earth {
+  padding-top: 94px;
+  margin: auto;
+  position: relative;
+}
+
+.earth-img {
+  padding-left: 190px;
+}
+
+/* .earth-img:hover {
+  background: linear-gradient(
+    168.48deg,
+    #323232 0.43%,
+    rgba(84, 84, 84, 0) 108.09%
+  );
+} */
+
+.member-1 {
+  position: absolute;
+  top: 251px;
+  left: 337px;
+}
+.member-2 {
+  position: absolute;
+  top: 317px;
+  left: 378px;
+}
+.member-3 {
+  position: absolute;
+  top: 273px;
+  left: 428px;
+}
+.member-4 {
+  position: absolute;
+  top: 273px;
+  left: 485px;
+}
+.member-5 {
+  position: absolute;
+  top: 361px;
+  left: 485px;
+}
+.member-6 {
+  position: absolute;
+  top: 166px;
+  left: 687px;
+}
+.member-7 {
+  position: absolute;
+  top: 273px;
+  left: 758px;
+}
+.member-8 {
+  position: absolute;
+  top: 166px;
+  left: 906px;
+}
+.member-9 {
+  position: absolute;
+  top: 273px;
+  left: 1019px;
+}
+.member-10 {
+  position: absolute;
+  top: 165px;
+  left: 354px;
+}
+
+.supper {
+  text-align: center;
+  padding-top: 171px;
+}
+
+.supper-heading {
+  padding-bottom: 119px;
+}
+
+.supper-slogan {
+  padding-top: 8px;
+  font-size: 36px;
+}
+
+.supper-nav {
+  width: 860px;
+  display: flex;
+  padding-bottom: 24px;
+  padding-top: 24px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  margin: auto;
+}
+
+.supper-nav-contact {
+  padding-right: 500px;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.supper-img {
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+  border: 1px solid #d4f70e;
+  border-radius: 100%;
+  line-height: 36px;
+}

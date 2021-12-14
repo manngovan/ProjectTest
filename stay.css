@@ -1,0 +1,157 @@
+.stay {
+  padding-top: 210px;
+  text-align: center;
+  position: relative;
+}
+
+.stay-nav {
+  background-color: #17171b;
+  position: absolute;
+  width: 1060px;
+  top: 280px;
+  left: 190px;
+}
+
+.stay-nav-contact {
+  padding: 64px 0 8px 0;
+}
+
+.stay-nav-slogan {
+  font-size: 40px;
+}
+
+.stay-nav-heading {
+  font-size: 18px;
+  opacity: 0.2;
+  padding: 7px 220px 9px 220px;
+}
+
+.stay-button {
+  margin: auto;
+  width: 440px;
+  height: 56px;
+  padding-bottom: 8px;
+}
+
+.stay-access {
+  border-radius: 32px;
+  background-color: #cbec13;
+  width: 48%;
+  height: 100%;
+  border: none;
+  color: #000;
+}
+
+.stay-add {
+  width: 48%;
+  height: 100%;
+  border-radius: 32px;
+  border: none;
+  background-color: #ffffff0a;
+}
+
+#stay-list {
+  display: inline-flex;
+  padding-bottom: 64px;
+  padding-top: 24px;
+  line-height: 26.33px;
+}
+
+.stay-list-icon {
+  width: 13.33px;
+  height: 13.33px;
+  line-height: 6.33px;
+  margin-right: 9.33px;
+  margin-left: 15px;
+  border-radius: 100%;
+}
+
+.stay-list-img {
+  z-index: 222;
+}
+
+.stay-bgr10 {
+  margin-top: -750px;
+}
+
+.stay-list-heading {
+  line-height: 13.33px;
+  font-size: 14px;
+}
+
+.footer {
+  margin: auto;
+  width: 1060px;
+  padding-bottom: 108px;
+  display: flex;
+}
+
+.footer-img {
+  padding-bottom: 33px;
+}
+
+.footer-call {
+  padding-bottom: 28px;
+}
+
+.footer-heading {
+  font-size: 14px;
+  color: #343434;
+  letter-spacing: 1px;
+}
+
+.footer-number {
+  font-size: 24px;
+  color: #c9ea14;
+}
+
+.footer-left {
+  width: 33.33333%;
+  padding-right: 122px;
+}
+
+#footer-right {
+  width: 66.66666%;
+  display: flex;
+}
+
+.footer-right-heading {
+  line-height: 33px;
+  width: 180px;
+  padding-right: 40px;
+}
+
+.end {
+  margin-left: 190px;
+  display: flex;
+  width: 1060px;
+  border-top: 1px solid #343434;
+  line-height: 92px;
+}
+
+.end-heading {
+  width: 320px;
+}
+
+.end-nav {
+  display: flex;
+  padding: 0 100px 0 100px;
+}
+
+.end-slogan {
+  font-size: 16px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.end-icon {
+  display: flex;
+}
+
+.end-face {
+  margin: 34px 26px 0 26px;
+  background-color: #343434;
+  padding-left: 17px;
+  height: 24px;
+  border-radius: 100%;
+}

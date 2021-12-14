@@ -1,0 +1,224 @@
+#navigation {
+  display: flex;
+  margin-left: 252px;
+  padding-top: 56px;
+}
+
+.standard-heading {
+  font-size: 24px;
+  padding-top: 29px;
+  padding-bottom: 26px;
+}
+
+.navigation-nav {
+  background-color: #171c1f;
+}
+
+.navigation-standard {
+  width: 242px;
+  padding-left: 33px;
+}
+
+.navigation-4 {
+  border: 1px solid #d4f70e;
+}
+
+.navigation-boder {
+  border: 1px solid #d4f70e;
+}
+
+.navigation-1 {
+  margin-right: 54px;
+}
+
+.navigation-2 {
+  margin-left: 54px;
+}
+
+.navigation-3 {
+  position: absolute;
+}
+
+.navition-heading {
+  padding-top: 32px;
+  padding-bottom: 36px;
+  color: #595959;
+  justify-content: center;
+  font-size: 14px;
+  letter-spacing: 0;
+}
+
+.standard-nav {
+  font-size: 34px;
+  display: flex;
+}
+
+.standard-money {
+  font-size: 36px;
+}
+
+.standard-yr {
+  color: #d4f70e;
+}
+
+.navigation-list-contact {
+  display: flex;
+}
+
+.standard-button {
+  width: 210px;
+  height: 40px;
+  background-color: #23282a;
+  border: none;
+  border-radius: 24px;
+}
+
+.navigation-list {
+  padding-top: 48px;
+}
+.productItem {
+  display: flex;
+  padding: 8px 0;
+}
+
+.productIrem-heading {
+  font-size: 14px !important;
+  padding-left: 8px;
+  line-height: 18px;
+}
+
+.navigation-logo {
+  position: absolute;
+  top: 203px;
+  left: 84px;
+}
+
+.navigation-contact {
+  /* padding-left: 10px; */
+  padding-top: 32px;
+  text-align: center;
+}
+
+.navigation-heading {
+  font-size: 24px;
+}
+
+.content {
+  padding: 109px 0 0 190px;
+  display: flex;
+}
+
+.content-nav {
+  width: 467px;
+}
+
+.content-chil {
+  padding-left: 100px;
+  margin-top: 42px;
+  width: 400px;
+}
+
+.content-chil-slogan {
+  display: flex;
+  padding-bottom: 24px;
+}
+
+.content-nav-heading {
+  padding-top: 8px;
+  font-size: 40px;
+}
+
+.content-chil-heading {
+  font-size: 16px;
+  padding-left: 16px;
+  width: 125px;
+}
+
+.content-slogan {
+  font-size: 18px;
+  line-height: 32px;
+}
+
+.screen {
+  padding: 106px 0 106px 0;
+}
+
+.screen-img {
+  width: 100%;
+}
+
+.breadcrumb {
+  text-align: center;
+  width: 755px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.breadcrumb-slogan {
+  font-size: 40px;
+  padding: 8px 0 16px 0;
+}
+
+#table {
+  padding-top: 78px;
+  display: flex;
+  justify-content: center;
+}
+
+.table-contact {
+  width: 290px;
+  height: 240px;
+  background-color: #171c1f;
+  margin: 0 20px 0 20px;
+}
+
+.table-quantity {
+  color: #ccf335;
+  font-size: 56px;
+  padding: 32px 40px 16px 40px;
+}
+
+.table-heading {
+  padding: 0 40px 0 40px;
+  line-height: 32px;
+}
+
+.gender {
+  display: flex;
+}
+
+.gender-tag {
+  width: 354px;
+  padding-left: 190px;
+  padding-top: 326px;
+}
+
+.gender-slogan {
+  padding: 8px 0 32px 0;
+  font-size: 40px;
+  line-height: 48px;
+  letter-spacing: -1px;
+}
+
+.gender-heading {
+  line-height: 32px;
+  padding-bottom: 32px;
+}
+
+.gender-img {
+  position: relative;
+  left: 948px;
+  bottom: -230px;
+}
+
+.gender-iphone {
+  position: absolute;
+  right: 72px;
+  z-index: 2;
+}
+
+.gender-bgr {
+  position: absolute;
+  right: 56px;
+  bottom: 170px;
+}
