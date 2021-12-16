@@ -8,26 +8,8 @@
 }
 
 .banner-nav {
-  position: relative;
   max-width: 1440px;
   margin: auto;
-}
-
-.shadow {
-  position: absolute;
-  left: 0;
-  top: -200px;
-}
-
-.banner-background {
-  position: absolute;
-  left: 260px;
-}
-
-.banner-mobi {
-  position: relative;
-  margin-top: -120px;
-  z-index: 2;
 }
 
 .slogan {
