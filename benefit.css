@@ -62,6 +62,7 @@
 .gender-2 {
   display: flex;
   padding-bottom: 151px;
+  justify-content: center;
 }
 
 .gender-img2 {
@@ -72,18 +73,6 @@
   padding-top: 124px;
 }
 
-/* .gender-icon2 {
-  position: absolute;
-  left: 412px;
-  top: 446px;
-}
-
-.gender-bgr2 {
-  position: absolute;
-  left: 292px;
-  top: 332px;
-} */
-
 .gender-2 > .gender-tag {
   padding-top: 203px;
   padding-left: 88px;
@@ -91,7 +80,6 @@
 }
 
 .breadcrumb-3 {
-  width: 657px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -106,72 +94,72 @@
   line-height: 32px;
 }
 
-.earth {
+.earth-nav {
+  height: 424px;
+  text-align: center;
+
+  display: flex;
+  justify-content: center;
   padding-top: 94px;
-  margin: auto;
+}
+
+.earth {
   position: relative;
+  width: 70%;
 }
 
 .earth-img {
-  padding-left: 190px;
+  margin: auto;
 }
-
-/* .earth-img:hover {
-  background: linear-gradient(
-    168.48deg,
-    #323232 0.43%,
-    rgba(84, 84, 84, 0) 108.09%
-  );
-} */
 
 .member-1 {
   position: absolute;
-  top: 251px;
+  top: 151px;
   left: 337px;
 }
 .member-2 {
   position: absolute;
-  top: 317px;
+  top: 217px;
   left: 378px;
 }
 .member-3 {
   position: absolute;
-  top: 273px;
+  top: 173px;
   left: 428px;
 }
 .member-4 {
   position: absolute;
-  top: 273px;
+  top: 173px;
   left: 485px;
 }
 .member-5 {
   position: absolute;
-  top: 361px;
+  top: 261px;
   left: 485px;
 }
 .member-6 {
   position: absolute;
-  top: 166px;
+  top: 66px;
   left: 687px;
 }
 .member-7 {
   position: absolute;
-  top: 273px;
+  top: 173px;
   left: 758px;
 }
 .member-8 {
   position: absolute;
-  top: 166px;
+  top: 66px;
   left: 906px;
 }
 .member-9 {
   position: absolute;
-  top: 273px;
+  top: 173px;
   left: 1019px;
 }
 .member-10 {
   position: absolute;
-  top: 165px;
+  top: 65px;
   left: 354px;
 }
 

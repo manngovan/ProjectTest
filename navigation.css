@@ -1,6 +1,6 @@
 #navigation {
   display: flex;
-  margin-left: 252px;
+  justify-content: center;
   padding-top: 56px;
 }
 
@@ -36,7 +36,7 @@
 }
 
 .navigation-3 {
-  position: absolute;
+  /* position: absolute; */
 }
 
 .navition-heading {
@@ -88,13 +88,11 @@
 }
 
 .navigation-logo {
-  position: absolute;
-  top: 203px;
-  left: 84px;
+  margin-top: -440px;
+  text-align: center;
 }
 
 .navigation-contact {
-  /* padding-left: 10px; */
   padding-top: 32px;
   text-align: center;
 }
@@ -106,6 +104,7 @@
 .content {
   padding: 109px 0 0 190px;
   display: flex;
+  justify-content: center;
 }
 
 .content-nav {
@@ -184,12 +183,16 @@
 }
 
 .gender {
+  justify-content: center;
+}
+
+.gender-div {
   display: flex;
+  justify-content: center;
 }
 
 .gender-tag {
   width: 354px;
-  padding-left: 190px;
   padding-top: 326px;
 }
 
@@ -207,12 +210,10 @@
 
 .gender-img {
   position: relative;
-  left: 948px;
-  bottom: -230px;
+  top: 200px;
 }
 
 .gender-iphone {
-  position: absolute;
   right: 72px;
   z-index: 2;
 }
@@ -220,5 +221,7 @@
 .gender-bgr {
   position: absolute;
   right: 56px;
-  bottom: 170px;
+  top: 50px;
+  z-index: -1;
+  left: -64px;
 }

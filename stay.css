@@ -1,15 +1,22 @@
 .stay {
-  padding-top: 210px;
+  margin-top: 70px;
+  background-color: #17171b;
+  width: 1060px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
-  position: relative;
+  position: absolute;
 }
 
 .stay-nav {
-  background-color: #17171b;
-  position: absolute;
   width: 1060px;
-  top: 280px;
-  left: 190px;
+  margin: auto;
+  position: relative;
+}
+
+.stay-chil-img {
+  text-align: center;
+  margin-top: 200px;
 }
 
 .stay-nav-contact {
@@ -72,6 +79,7 @@
 
 .stay-bgr10 {
   margin-top: -750px;
+  width: 1000px;
 }
 
 .stay-list-heading {
@@ -127,6 +135,7 @@
   width: 1060px;
   border-top: 1px solid #343434;
   line-height: 92px;
+  margin: auto;
 }
 
 .end-heading {
