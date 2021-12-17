@@ -146,16 +146,15 @@ html {
 .slider-img {
   margin-left: auto;
   margin: auto;
+  /* width: 30%; */
 }
 
 .super {
-  width: 278.66px;
-  height: 51.27px;
+  width: 19%;
 }
 
 .production {
-  width: 533.68px;
-  height: 51.28px;
+  width: 30%;
 }
 
 .slider-heading {
