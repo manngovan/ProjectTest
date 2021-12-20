@@ -88,6 +88,7 @@
 }
 
 .footer {
+  padding-top: 160px;
   margin: auto;
   width: 1060px;
   padding-bottom: 108px;
@@ -138,13 +139,17 @@
   margin: auto;
 }
 
+.end-icon-mobi {
+  display: none;
+}
+
 .end-heading {
   width: 320px;
 }
 
 .end-nav {
   display: flex;
-  padding: 0 100px 0 100px;
+  padding: 0 88px 0 88px;
 }
 
 .end-slogan {
@@ -157,10 +162,10 @@
   display: flex;
 }
 
-.end-face {
-  margin: 34px 26px 0 26px;
-  background-color: #343434;
-  padding-left: 17px;
-  height: 24px;
-  border-radius: 100%;
+.end-icon-in {
+  padding: 0 12px 0 12px;
+}
+
+.abc {
+  opacity: 0.2;
 }

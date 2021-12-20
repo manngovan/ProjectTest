@@ -11,7 +11,7 @@
 }
 .banner-img {
   width: 100%;
-  margin-top: -100px;
+  margin-top: -150px;
 }
 
 .slogan {
@@ -33,19 +33,28 @@
   width: 90%;
 }
 
+.siderbar-nav-mobi {
+  display: none;
+}
+
 .manter-img {
   padding-right: 52px;
 }
 
 #navition {
-  padding: 108px 120px 135px 190px;
+  padding: 108px 0px 135px 100px;
   display: flex;
-  position: relative;
   justify-content: center;
+}
+
+.navition-chil-nav {
+  width: 30%;
 }
 
 .navition-introduce {
   width: 330px;
+  margin-top: 165px;
+  padding-right: 100px;
 }
 
 .introduce-question {
@@ -66,7 +75,8 @@
 }
 
 .navition-browse {
-  /* background-color: #171c1f; */
+  background-color: #171c1f;
+  text-align: center;
   width: 330px;
   height: 296px;
 }
@@ -75,38 +85,29 @@
   margin-bottom: 40px;
 }
 .browse {
-  position: relative;
-  top: 180px;
-  margin-left: 100px;
+  margin-top: 165px;
   margin-right: 40px;
 }
 
 .navition-icon {
-  margin: 32px 133px 24px;
-  text-align: center;
-}
-
-/* .navition-slogan {
-  text-align: center;
-  font-size: 24px;
+  padding-top: 32px;
+  padding-bottom: 24px;
 }
 
 .browse-heading {
   color: #595959;
-  width: 266px;
-  text-align: center;
   padding: 16px 32px 56px 32px;
   line-height: 24px;
-} */
+}
 
-.navition-chil {
-  right: 120px;
+.navition-nav {
+  display: flex;
+  width: 70%;
 }
 
 .invitation {
   display: flex;
-  text-align: center;
-  padding-left: 190px;
+  justify-content: center;
 }
 
 .invitation-tab {
@@ -117,6 +118,7 @@
 .tab-slogan {
   font-size: 43px;
   letter-spacing: -1px;
+  padding-top: 24px;
 }
 
 .invitation-tab > .browse-heading {
@@ -138,7 +140,15 @@
 
 .invitation-community {
   margin-top: -190px;
-  width: 76%;
+  width: 700px;
+}
+
+.invitation-community-img {
+  width: 100%;
+}
+
+.invitation-community-mobi {
+  display: none;
 }
 
 .plan {

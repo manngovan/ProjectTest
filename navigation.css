@@ -36,7 +36,7 @@
 }
 
 .navigation-3 {
-  /* position: absolute; */
+  height: 635px;
 }
 
 .navition-heading {
@@ -102,7 +102,7 @@
 }
 
 .content {
-  padding: 109px 0 0 190px;
+  padding: 109px 0 0 0px;
   display: flex;
   justify-content: center;
 }
@@ -141,6 +141,9 @@
 .screen {
   padding: 106px 0 106px 0;
 }
+.screen-mobi {
+  display: none;
+}
 
 .screen-img {
   width: 100%;
@@ -161,6 +164,7 @@
 #table {
   padding-top: 78px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
@@ -213,6 +217,10 @@
   top: 200px;
 }
 
+.gender-iphone-mobi {
+  display: none;
+}
+
 .gender-iphone {
   right: 72px;
   z-index: 2;
@@ -220,8 +228,7 @@
 
 .gender-bgr {
   position: absolute;
-  right: 56px;
-  top: 50px;
+  left: -11px;
+  top: -150px;
   z-index: -1;
-  left: -64px;
 }
