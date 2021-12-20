@@ -170,12 +170,12 @@ var listStay = [
   
     document.getElementById("stay-list").innerHTML = listStay.map(
         (user) =>
-          `
+          `<div class="stay-list-mobi">
             <div class="stay-list-icon">
               <img class="stay-list-img" src="/img/icon/stay-icon.svg" alt="">
             </div>
               <p class="stay-list-heading">${user.name}</p>
-          `
+          </div>`
       ).join("");
 
 
